@@ -2,7 +2,7 @@
 
 ## 2017-05-08
 
-### Share Project On The GitHub
+### Share The Projects On The GitHub
 
 #### Edit using vi
 
